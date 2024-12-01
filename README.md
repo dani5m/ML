@@ -2,7 +2,6 @@
 Descripción:
 En esta práctica desarrollaré un modelo que sea capaz de predecir el precio del dólar en euros con 6h de adelanto.
 
-Conjunto de datos
 Contaré con el siguiente conjunto de datos para entrenar mis modelo:
 
 !wget "https://udcgal.sharepoint.com/:u:/s/GCEDAprendizajeAutomaticoII/EW-oyZUCNkBMvy80CvRjlnABDl5jxrGj1JyXG3C2vr2xAA?e=61EuOe&download=1" -O data.json
