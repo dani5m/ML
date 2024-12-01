@@ -14,10 +14,13 @@ Si el modelo predice que el dólar bajará: vendo un dólar ahora y lo compro m�
 Si el modelo predice que el dólar subirá: compro un dólar ahora y lo vendo más caro dentro de 6h. La diferencia entre el precio de compra y el de venta es mi ganancia.
 
 Elección del/los modelo/s:
+
 Ajustaré a los datos de entrenamiento modelos con arquitecturas de tipo dense, LSTM y GRU, probando con ventanas de distintos tamaños.
 
 Evaluación del rendimiento del/los modelo/s frente a baselines:
+
 Compararé el rendimiento de mis modelos entre sí y con dos baselines sencillas:
+
 Un modelo que prediga siempre el último valor de entrada recibido (6h antes del dato a predecir)
 Un modelo que prediga la media de los valores de entrada recibidos
 
